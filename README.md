@@ -1,8 +1,6 @@
 # psl-snapshot
 PSL Snapshot For Blender 2.8
+Version for BLENDER 2.9 NOW AVAILABLE!
 
 -> Have fun!
-* Learn how to use currectly: http://bit.ly/2x6oGRx
-
-
-16/03/2020, Vinícius Fidelis PK - Canal CGI Brasil
+* Learn how to use correctly: http://bit.ly/2x6oGRx

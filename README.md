@@ -9,4 +9,4 @@ VERSIONS
 
 -> 2.0 - For Blender 2.8x |  By Vinícius Fidelis PK and Canal CGI Brasil - 2019
 
--> 2.1 - For Blender 2.8 and 2.9 |  By Vinícius Fidelis Pk - 2020
+-> 2.1 - For Blender 2.8x and 2.9x |  By Vinícius Fidelis Pk - 2020
